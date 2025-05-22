@@ -14,4 +14,6 @@ SkillSync is a powerful and minimalistic personal learning tracker built with Sp
 
 ---
 
+## Still implementing the features and working on this.....
+
 
